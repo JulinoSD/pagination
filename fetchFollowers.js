@@ -5,6 +5,5 @@ const fetchFollowers = async () => {
     const data = await response.json()
     return data
 }
-fetchFollowers()
 
 export default fetchFollowers

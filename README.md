@@ -1,4 +1,5 @@
 # Pagination
 
-!['Imagem']('./images/desktop1.png')
+!['Imagem'](/images/desktop.png)
+
 
